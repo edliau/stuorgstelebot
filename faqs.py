@@ -41,8 +41,7 @@ This fund provides an opportunity for registered student organisations to organi
 
 <u><b>When are the application deadlines for StuOrg Travel Funding? </b></u>
 
-For travel in Semester 2 (23 Feb - 11 May):  29 Jan 2024 
-For travel in Summer (12 May - 4 Aug): 15 Apr 2024 
+They have now passed :(
 '''
         await update.message.reply_text(reply, parse_mode = 'HTML')
 
@@ -76,7 +75,7 @@ Up to $400 per AY, max $15 per Yale-NUS student. Internal appreciation events sh
 
 <u><b>What if my event involves alcohol, needs funding for local transport, in outside of Singapore, or requires a co-pay?  </b></u>
 
-Email e.ngie@nus.edu.sg for approval. 
+Email e.ngie@nus.edu.sg for approval. If you event involves alcohol, please get in contact with Ashley at ashley.yong@yale-nus.edu.sg.
 
 
 <u><b>What is the semester deadline for claiming StuOrg expenses?  </b></u>
@@ -112,7 +111,7 @@ Only approved expenses will be reimbursed. You must submit within 30 days of the
 
 - Add event on Halcyon Hub calendar. 
 - Make a purchase request on Halcyon Hub. 
-- Submit the RFP (one PDF document) to Engie at e.ngie@nus.edu.sg 
+- Submit the RFP (one PDF document) to the YNC StuOrgs email at studentorgs@yale-nus.edu.sg 
 - Once approved and processed, you can expect reimbursement in approximately 30 days. 
                                         
 The RFP should be one PDF document with the RFP form as the first page and all receipts attached. Receipts must be legible and itemized. You can find the RFP form at tiny.cc/RFP  
@@ -128,15 +127,15 @@ Vendors can bill the student organisation through an invoice. NUS has a standard
 National University of Singapore 
 Yale-NUS College 
 Student's address in residential college 
-Attn: [Name of student organisation/event], [Person in Charge]  
+Attn: Engie Wong, Student Life
 
 (2) E-invoices must say “This is an e-invoice, no original copy will be sent/This is a computer generated invoice, no signature is required” 
 
 You should:
 i. Add the event on Halcyon Hub calendar. 
 ii. Make a purchase request on Halcyon Hub. 
-iii. Check that the invoice meets all the requirements above 
-iv. Submit the invoice to e.ngie@nus.edu.sg 
+iii. Check that the invoice meets all the requirements above.
+iv. The vendor should send the email directly to ofnap@nus.edu.sg for processing.
 
 If your planned invoice amount exceeds S$1,000, contact e.ngie@nus.edu.sg for assistance at least 1 month in advance. 
 
@@ -162,6 +161,8 @@ iii. After using the card, immediately forward the receipt to the card holder (e
 Email e.ngie@nus.edu.sg to make an appointment to use the card. 
 
 If your planned payment amount exceeds S$1,000, contact e.ngie@nus.edu.sg for assistance at least 1 month in advance. 
+
+Please note that all accounts used to make P-Card purchases should have the user of the P-Card as the listed name of the account owner.
 '''
         await update.message.reply_text(reply, parse_mode = 'HTML')
 
